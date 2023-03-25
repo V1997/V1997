@@ -1,5 +1,5 @@
 # 💫 About Me:
-I've worked as Dev-ops support engineer at Genpact.<br>I'm open to new opportunities.
+I am a highly skilled Senior Associate at Genpact, Noida with extensive experience in deployment, integration, and Linux activities. With a strong focus on delivering customer satisfaction, I have a proven track record of resolving issues promptly and effectively. I possess expertise in various tools and technologies such as Linux, Database, Jira, Github, Queues, Splunk, Pythia, Grafana, Azure/Aws, and have worked as a freelancer designing and developing websites on WordPress using AWS and WP-plugins.<br><br>In addition, I have a Java Development Internship experience where I developed Password reset modules, User management, and embedded Portlet using JSP and Java with PostgreSQL database. I have also completed various projects such as Casting Movie, Deployed Flask API Kubernetes using Docker, AWS EKS, CodePipeline, CodeBuild, Trivia API, Coffee Shop, and Image Search & Math Clash using various technologies like Flask, Postgres, SQLAlchemy, React Js, HTML, CSS, and JS.<br><br>I hold a Bachelor's degree in Information Technology from LDRP ITR, Gandhinagar, and have completed Full Stack Development certification from Newton School and DSA & Full Stack Web Developer Nano Degrees from Udacity. I am passionate about staying up-to-date with the latest technologies and trends in the industry, and constantly seek new opportunities to learn and grow.<br><br><br><br>
 
 
 ## 🌐 Socials:
@@ -11,8 +11,5 @@ I've worked as Dev-ops support engineer at Genpact.<br>I'm open to new opportuni
 ![](https://github-readme-stats.vercel.app/api?username=v1997&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=v1997&theme=swift&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=v1997&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=v1997&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
