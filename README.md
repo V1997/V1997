@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'was a tech whiz at Genpact, Noida, in Linux, databases, Jira, and many more. I fix stuff fast and make customers smile. I was also a freelance web wizard on WordPress with AWS magic.<br><br>
+I was a tech whiz at Genpact, Noida, in Linux, databases, Jira, and many more. I fix stuff fast and make customers smile. I was also a freelance web wizard on WordPress with AWS magic.<br><br>
 I did an amazing Java internship, built exciting projects like Trivia API, Image seach engine and I'm all about learning and exploring new tech stuff. Got my degree in IT, plus certifications in Full Stack Dev and more!
 
 <br><br>
