@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, World! I’m Vasu, a full-stack developer who believes in the power of visual communication. I’ve journeyed through the mystical land of HTML/CSS, climbed the JavaScript mountain, dived into the ocean of React, and am currently wrestling with Python snakes. 🐍
+👋 Hello, World! it's Vasu, a full-stack developer who believes in the power of visual communication. I’ve journeyed through the mystical land of HTML/CSS, climbed the JavaScript mountain, dived into the ocean of React, and am currently wrestling with Python snakes. 🐍
 
 You’ll find me infront of my computer, sipping on a cup of coffee ☕, reading Non-fiction books 📚, or exploring the wilderness in the mountains. 🌳
 I believe that code is a powerful tool to make the world a better place.
