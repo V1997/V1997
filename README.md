@@ -7,12 +7,6 @@ As a full-stack developer, I bring a thoughtful approach to creating web applica
 - Experienced in both front-end and back-end development.
 - Committed to writing clean, maintainable, and efficient code.
 
-## Collaboration and Open Source
-I value the power of community and am always open to collaborating on projects that push the boundaries of what's possible.
-
-## Projects
-Feel free to explore my repositories to see what I've been working on. Your contributions and feedback are welcome!
-
 ## Connect with Me
 If you're interested in my work or have any questions, please reach out. I'm always open to discussing new opportunities and ideas.
 
